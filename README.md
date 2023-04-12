@@ -61,7 +61,7 @@
   </a>
 </p>
 <hr />
-![JeffreyOh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffrey-oh&theme=dracula&show_icons=true)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-oh&layout=compact&theme=dracula)
 </div>
+
+![JeffreyOh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffrey-oh&theme=dracula&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-oh&layout=compact&theme=dracula)

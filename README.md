@@ -53,6 +53,9 @@
 <hr />
 <h3 align="center">👋 Contact Me 👋</h3>
 <p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jeffrey-Oh/hit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+</p>
+<p align="center">
   <a href="https://jeffrey-oh.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=fff"/>
   </a>
@@ -64,4 +67,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jeffrey-oh&theme=dracula&show_icons=true" />
   <br />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-oh&layout=compact&theme=dracula" /> -->
+<!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohtaehyun7" /> -->
 </div>

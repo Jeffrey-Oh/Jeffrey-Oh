@@ -1,20 +1,24 @@
 <div align="center">
 <h3 align="center">🧐 Necessary Skill 🧐</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Webflux-6DB33F?style=flat&logo=spring&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat&logo=mongodb&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=fff"/>
 </p>
 <hr />
 <h3 align="center">👩🏻‍💻 Skills 👩🏻‍💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-e42c2d?style=flat"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=fff"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Webflux-6DB33F?style=flat&logo=spring&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat&logo=spring&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Spring Cloud Config-6DB33F?style=flat&logo=spring&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Querydsl-008DD1?style=flat"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=fff"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=fff"/>

@@ -2,13 +2,20 @@
 <h3 align="center">🧐 Necessary Skill 🧐</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat&logo=mongodb&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Loki-E6522C?style=flat&logo=loki&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Tempo-E6522C?style=flat&logo=tempo&logoColor=fff"/>
 </p>
 <hr />
-<h3 align="center">👩🏻‍💻 Skills 👩🏻‍💻</h3>
+<h3 align="center">📖 Languages 📖</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-e42c2d?style=flat"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=fff"/>
 </p>
+<hr />
+<h3 align="center">🔌 Frameworks 🔌</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Webflux-6DB33F?style=flat&logo=spring&logoColor=fff"/>
@@ -16,10 +23,14 @@
   <img src="https://img.shields.io/badge/Spring Cloud Config-6DB33F?style=flat&logo=spring&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Querydsl-008DD1?style=flat"/>
 </p>
+<hr />
+<h3 align="center">🗄️ Databases 🗄️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=fff"/>
 </p>
+<hr />
+<h3 align="center">📡 Infra 📡</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=fff"/>

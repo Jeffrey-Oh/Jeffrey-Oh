@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Loki-E6522C?style=flat&logo=loki&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Tempo-E6522C?style=flat&logo=tempo&logoColor=fff"/>
 </p>
 <hr />
 <h3 align="center">📖 Languages 📖</h3>
@@ -50,6 +49,9 @@
   <img src="https://img.shields.io/badge/Elastic Search-005571?style=flat&logo=elasticsearch&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=fff"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tempo-E6522C?style=flat&logo=tempo&logoColor=fff"/>
 </p>
 <hr />
 <h3 align="center">🛠 Tools 🛠</h3>

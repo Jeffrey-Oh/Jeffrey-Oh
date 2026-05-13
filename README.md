@@ -2,10 +2,6 @@
 <h3 align="center">🧐 Necessary Skill 🧐</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat&logo=mongodb&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Loki-E6522C?style=flat&logo=loki&logoColor=fff"/>
 </p>
 <hr />
 <h3 align="center">📖 Languages 📖</h3>
@@ -52,6 +48,10 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Tempo-E6522C?style=flat&logo=tempo&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Loki-E6522C?style=flat&logo=loki&logoColor=fff"/>
 </p>
 <hr />
 <h3 align="center">🛠 Tools 🛠</h3>
